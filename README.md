@@ -1,2 +1,2 @@
-# AICW_2_0_GSSSIETW
+# AICW Training
 15 days spoke engineering program
